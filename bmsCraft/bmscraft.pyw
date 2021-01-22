@@ -545,8 +545,7 @@ Loadingbardr(92)
 time.sleep(0.8)
 print("заставка")
 time.sleep(1)
-if(video==0):
- imglogoim=0
+try:
  if(animation==1):
     
   while not (181==imglogoim):
@@ -587,7 +586,16 @@ if(video==0):
    placefps = textfps.get_rect(center=(200, 150))
    display.blit(textfps, placefps)
    pygame.display.update()
-     
+except:
+    print('Erorr code:\n', traceback.format_exc())
+    root = Tk()
+    root.title("Ошибка анимаций игры")
+    mb.showerror(
+        "Erorr: ошибка выполнения анимаций (игра не крашнулась)", 
+        traceback.format_exc())
+    try:root.destroy()
+    except:pass
+    
 
 try:
     with open(datafiles+"splasers.txt", 'r') as fr:
