@@ -285,11 +285,11 @@ def search(A, key):
 
 
 filesNormal=['17-Excuse-.mp3', '17-Excuse.mp3', 'AMONG_US_ M_T_S.mp3', 'Among_Us_-_M_M_Piano.mp3', 'animetloading', 'animetsetting', 'blok_air.png', 'blok_bedrokpng.png',
-             'blok_coal_ore.png', 'blok_gras.png', 'blok_land.png', 'blok_ore_diamond.png', 'blok_ore_iron.png', 'blok_radio_interat.png', 'blok_rok.png', 'config.txt', 'conve.ogg',
-             'cursor.png', 'cursor1.png', 'Erorr screan.png', 'Fluxion - En Route net cor.mp3', 'game_Main_Menu.png', 'game_rase_furry.png', 'game_rase_human.png', 'game_rase_none.png', 'gui_inventari.png',
-             'Hit_Hurt10.wav', 'Hit_Hurt19.wav', 'icon_worldNONE.png', 'icon_worldsave.png', 'icon_worldsaveSelect.png', 'Late Night Danalog Multirex(loop).mp3', 'logo', 'logo-', 'logo.png', 'logo_engine.png',
-             'logo_engine2.png', 'mane_menufon-nofan.png', 'mane_menufon.png', 'Meanone - Your Favourite Spaceship (Space Rangers LP - Omni064).mp3', 'menu_battan.png',
-             'menu_worlds.png', 'menu_world_battan.png', 'noneblok.png', 'otxhello - depression.mp3', 'razrabi.jpg', 'select.png', 'sky.png', 'splasers.txt', 'testplayer1.png', 'VAX3p9.mp4', 'worlds', 'Безымянный.png']
+             'blok_coal_ore.png', 'blok_gras.png', 'blok_land.png', 'blok_ore_diamond.png', 'blok_ore_iron.png', 'blok_radio_interat.png', 'blok_rok.png', 'config.txt', 'conve.ogg', 'cursor.png',
+             'cursor1.png', 'Erorr screan.png', 'Fluxion - En Route net cor.mp3', 'game_Main_Menu.png', 'game_rase_furry.png', 'game_rase_human.png', 'game_rase_none.png', 'gui_inventari.png', 'Hit_Hurt10.wav',
+             'Hit_Hurt19.wav', 'icon_worldNONE.png', 'icon_worldsave.png', 'icon_worldsaveSelect.png', 'Late Night Danalog Multirex(loop).mp3', 'logo', 'logo-', 'logo.png', 'logo_engine.png', 'logo_engine2.png',
+             'mane_menufon-nofan.png', 'mane_menufon.png', 'mane_menufonOLD.png', 'Meanone - Your Favourite Spaceship (Space Rangers LP - Omni064).mp3',
+             'menu_battan.png', 'menu_worlds.png', 'menu_world_battan.png', 'noneblok.png', 'otxhello - depression.mp3', 'razrabi.jpg', 'select.png', 'sky.png', 'splasers.txt', 'testplayer1.png', 'VAX3p9.mp4', 'worlds', 'Безымянный.png']
 
 print("проверка целосность фаилов")
 
