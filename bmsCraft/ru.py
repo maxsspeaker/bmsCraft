@@ -10,3 +10,5 @@ exit_battanmenu="выйти"
 
 setingsbottan="настройки"
 ventutsaBattan="назад"
+
+localization="язык"
